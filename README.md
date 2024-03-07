@@ -1,1 +1,1 @@
-# Bioinformatics
+# bioinformatics_course
